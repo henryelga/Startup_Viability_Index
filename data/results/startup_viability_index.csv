@@ -1,0 +1,218 @@
+Country Name,Country Code,Income Group,Startup_Viability_Index
+Afghanistan,AFG,Low income,0.23303124712111664
+Albania,ALB,Upper middle income,0.44301030453234524
+Algeria,DZA,Upper middle income,0.41331489166784124
+American Samoa,ASM,High income,0.5827645808177663
+Andorra,AND,High income,0.5781369320997872
+Angola,AGO,Lower middle income,0.30683179360276996
+Antigua and Barbuda,ATG,High income,0.48471076279007735
+Argentina,ARG,Upper middle income,0.49194456530532993
+Armenia,ARM,Upper middle income,0.5075513479418519
+Aruba,ABW,High income,0.5327579276742636
+Australia,AUS,High income,0.6487384815406279
+Austria,AUT,High income,0.6043397687343827
+Azerbaijan,AZE,Upper middle income,0.42730858520743
+"Bahamas, The",BHS,High income,0.5246220558814048
+Bahrain,BHR,High income,0.5089265737392685
+Bangladesh,BGD,Lower middle income,0.3893472549895608
+Barbados,BRB,High income,0.5301625218913191
+Belarus,BLR,Upper middle income,0.5046924581892921
+Belgium,BEL,High income,0.6162621446764507
+Belize,BLZ,Upper middle income,0.44603465133730125
+Benin,BEN,Lower middle income,0.3654518297218392
+Bermuda,BMU,High income,0.5068463994237029
+Bhutan,BTN,Lower middle income,0.4369280237290599
+Bolivia,BOL,Lower middle income,0.40768491251008954
+Bosnia and Herzegovina,BIH,Upper middle income,0.483586535098061
+Botswana,BWA,Upper middle income,0.3885704245832075
+Brazil,BRA,Upper middle income,0.5590546854331364
+British Virgin Islands,VGB,High income,0.5848711707368968
+Brunei Darussalam,BRN,High income,0.5025460406533027
+Bulgaria,BGR,High income,0.5201956752644439
+Burkina Faso,BFA,Low income,0.2906786502962332
+Burundi,BDI,Low income,0.2723330971463369
+Cabo Verde,CPV,Upper middle income,0.4296859648442137
+Cambodia,KHM,Lower middle income,0.42358935187506236
+Cameroon,CMR,Lower middle income,0.3256059714047427
+Canada,CAN,High income,0.6193191626974377
+Cayman Islands,CYM,High income,0.6364537407462849
+Central African Republic,CAF,Low income,0.28206157709435187
+Chad,TCD,Low income,0.2572795868724231
+Channel Islands,CHI,High income,0.6066916264563457
+Chile,CHL,High income,0.5678130755940338
+China,CHN,Upper middle income,0.6594864460142231
+Colombia,COL,Upper middle income,0.46856439137730715
+Comoros,COM,Lower middle income,0.3001095117949349
+"Congo, Dem. Rep.",COD,Low income,0.27107833095358397
+"Congo, Rep.",COG,Lower middle income,0.3248096985031493
+Costa Rica,CRI,High income,0.485622019129642
+Cote d'Ivoire,CIV,Lower middle income,0.3287812032953701
+Croatia,HRV,High income,0.555348795866267
+Cuba,CUB,Upper middle income,0.43043396038660975
+Curacao,CUW,High income,0.5930524134137396
+Cyprus,CYP,High income,0.5643398008037956
+Czechia,CZE,High income,0.5849902068613089
+Denmark,DNK,High income,0.6610117658818975
+Djibouti,DJI,Lower middle income,0.38445965152813494
+Dominica,DMA,Upper middle income,0.4971760349555416
+Dominican Republic,DOM,Upper middle income,0.4814267537191815
+Ecuador,ECU,Upper middle income,0.47596995636627076
+"Egypt, Arab Rep.",EGY,Lower middle income,0.41527469181266385
+El Salvador,SLV,Upper middle income,0.4249944805498797
+Equatorial Guinea,GNQ,Upper middle income,0.37574823474274244
+Eritrea,ERI,Low income,0.27271157854819267
+Estonia,EST,High income,0.5972140505901302
+Eswatini,SWZ,Lower middle income,0.354592986442788
+Ethiopia,ETH,Middle income,0.34582852828614097
+Faroe Islands,FRO,High income,0.6057353750820981
+Fiji,FJI,Upper middle income,0.4572236525433744
+Finland,FIN,High income,0.6264518701953236
+France,FRA,High income,0.623885757111771
+French Polynesia,PYF,High income,0.5409249115612051
+Gabon,GAB,Upper middle income,0.4118431911675659
+"Gambia, The",GMB,Low income,0.31270506986593455
+Georgia,GEO,Upper middle income,0.521105277129404
+Germany,DEU,High income,0.617840134425133
+Ghana,GHA,Lower middle income,0.31688230848019827
+Gibraltar,GIB,High income,0.6162163097461536
+Greece,GRC,High income,0.577146481805995
+Greenland,GRL,High income,0.5516827034623613
+Grenada,GRD,Upper middle income,0.5007810570927546
+Guam,GUM,High income,0.5413465185374493
+Guatemala,GTM,Upper middle income,0.3836703728224351
+Guinea,GIN,Lower middle income,0.3124835960364272
+Guinea-Bissau,GNB,Low income,0.29188274755229615
+Guyana,GUY,High income,0.531099329498651
+Haiti,HTI,Lower middle income,0.2929276091250246
+Honduras,HND,Lower middle income,0.3973498437024636
+"Hong Kong SAR, China",HKG,High income,0.7375789615985454
+Hungary,HUN,High income,0.56494153877723
+Iceland,ISL,High income,0.6512462252936478
+India,IND,Lower middle income,0.4841455533709238
+Indonesia,IDN,Upper middle income,0.4665825298319298
+"Iran, Islamic Rep.",IRN,Upper middle income,0.5026056672952897
+Iraq,IRQ,Upper middle income,0.3904717147821425
+Ireland,IRL,High income,0.6076078960773721
+Isle of Man,IMN,High income,0.595122717774083
+Israel,ISR,High income,0.6027881776238737
+Italy,ITA,High income,0.5785525390724169
+Jamaica,JAM,Upper middle income,0.45590994748860647
+Japan,JPN,High income,0.6436567119800558
+Jordan,JOR,Lower middle income,0.47028783373501065
+Kazakhstan,KAZ,Upper middle income,0.5233971330920306
+Kenya,KEN,Lower middle income,0.36221538354004695
+Kiribati,KIR,Lower middle income,0.3754938414575822
+"Korea, Dem. People's Rep.",PRK,Low income,0.3020952952396263
+"Korea, Rep.",KOR,High income,0.6848582150522022
+Kosovo,XKX,Upper middle income,0.5352298352866101
+Kuwait,KWT,High income,0.4736836130266652
+Kyrgyz Republic,KGZ,Lower middle income,0.4540003518973932
+Lao PDR,LAO,Lower middle income,0.4073220563669097
+Latvia,LVA,High income,0.5594255954516293
+Lebanon,LBN,Lower middle income,0.44402188436217505
+Lesotho,LSO,Lower middle income,0.3145365720467158
+Liberia,LBR,Low income,0.2857464316626502
+Libya,LBY,Upper middle income,0.40585746374978243
+Liechtenstein,LIE,High income,0.5871134869317314
+Lithuania,LTU,High income,0.5683867065963506
+Luxembourg,LUX,High income,0.5895757081259463
+"Macao SAR, China",MAC,High income,0.5697263650895653
+Madagascar,MDG,Low income,0.30303589316230356
+Malawi,MWI,Low income,0.2744546450792188
+Malaysia,MYS,Upper middle income,0.6037912970405942
+Maldives,MDV,Upper middle income,0.4812570442743487
+Mali,MLI,Low income,0.30870965190566835
+Malta,MLT,High income,0.620472027037232
+Marshall Islands,MHL,Upper middle income,0.4456883122088069
+Mauritania,MRT,Lower middle income,0.33345501181510473
+Mauritius,MUS,Upper middle income,0.47738236391755107
+Mexico,MEX,Upper middle income,0.4950034550792667
+"Micronesia, Fed. Sts.",FSM,Lower middle income,0.3833345233515322
+Moldova,MDA,Upper middle income,0.46249684201961977
+Monaco,MCO,High income,0.6342509993110382
+Mongolia,MNG,Upper middle income,0.4986638336135717
+Montenegro,MNE,Upper middle income,0.5176128834188678
+Morocco,MAR,Lower middle income,0.47297057849933505
+Mozambique,MOZ,Low income,0.2895283220933125
+Myanmar,MMR,Lower middle income,0.32030880041828
+Namibia,NAM,Lower middle income,0.3969029210997414
+Nauru,NRU,High income,0.55504813783919
+Nepal,NPL,Lower middle income,0.40332727289455395
+Netherlands,NLD,High income,0.6445036740609653
+New Caledonia,NCL,High income,0.5640734938672588
+New Zealand,NZL,High income,0.6026006685299969
+Nicaragua,NIC,Lower middle income,0.36582007733267563
+Niger,NER,Low income,0.2799802152203471
+Nigeria,NGA,Lower middle income,0.32845539939514273
+North Macedonia,MKD,Upper middle income,0.5116604646576342
+Northern Mariana Islands,MNP,High income,0.6013860894117188
+Norway,NOR,High income,0.6528708714526494
+Oman,OMN,High income,0.48111405309038985
+Pakistan,PAK,Lower middle income,0.31262953911933455
+Palau,PLW,High income,0.5839582112615098
+Panama,PAN,High income,0.4811084705682631
+Papua New Guinea,PNG,Lower middle income,0.30767593076737326
+Paraguay,PRY,Upper middle income,0.4798735949312751
+Peru,PER,Upper middle income,0.45905847209619466
+Philippines,PHL,Lower middle income,0.48550653956914946
+Poland,POL,High income,0.5460704378211735
+Portugal,PRT,High income,0.5703039537451632
+Puerto Rico (US),PRI,High income,0.5686768177963671
+Qatar,QAT,High income,0.5362252795802371
+Romania,ROU,High income,0.5243937137361289
+Russian Federation,RUS,High income,0.563982751331916
+Rwanda,RWA,Low income,0.36524146221687737
+Samoa,WSM,Upper middle income,0.46823196608221695
+San Marino,SMR,High income,0.5966688583114279
+Sao Tome and Principe,STP,Lower middle income,0.38455232961102187
+Saudi Arabia,SAU,High income,0.566290983791899
+Senegal,SEN,Lower middle income,0.38479340876967466
+Serbia,SRB,Upper middle income,0.5353539060578607
+Seychelles,SYC,High income,0.45156879552263307
+Sierra Leone,SLE,Low income,0.2672450057040341
+Singapore,SGP,High income,0.6892023858916034
+Sint Maarten (Dutch part),SXM,High income,0.5577340269773604
+Slovak Republic,SVK,High income,0.5722494806277676
+Slovenia,SVN,High income,0.5488861363701386
+Solomon Islands,SLB,Lower middle income,0.3163490679954152
+"Somalia, Fed. Rep.",SOM,Low income,0.29812135556260116
+South Africa,ZAF,Upper middle income,0.4972752954535532
+South Sudan,SSD,Low income,0.27139786066852944
+Spain,ESP,High income,0.5884995531321854
+Sri Lanka,LKA,Lower middle income,0.37339573848660784
+St. Kitts and Nevis,KNA,High income,0.5900202183159868
+St. Lucia,LCA,Upper middle income,0.4529845126387589
+St. Martin (French part),MAF,High income,0.5928542727780431
+St. Vincent and the Grenadines,VCT,Upper middle income,0.4681994431346428
+Sudan,SDN,Low income,0.24392148283804233
+Suriname,SUR,Upper middle income,0.44137553331240753
+Sweden,SWE,High income,0.6498060804272104
+Switzerland,CHE,High income,0.6725831842081993
+Syrian Arab Republic,SYR,Low income,0.3152359997336162
+Tajikistan,TJK,Lower middle income,0.37662334289188637
+Tanzania,TZA,Lower middle income,0.32297552350462516
+Thailand,THA,Upper middle income,0.5746616312490971
+Timor-Leste,TLS,Lower middle income,0.34594832325429514
+Togo,TGO,Low income,0.3101833664341854
+Tonga,TON,Upper middle income,0.46456150960717946
+Trinidad and Tobago,TTO,High income,0.4314161091632669
+Tunisia,TUN,Lower middle income,0.4624902100156371
+Turkiye,TUR,Upper middle income,0.5639861537923361
+Turkmenistan,TKM,Upper middle income,0.399136662298038
+Turks and Caicos Islands,TCA,High income,0.5709617696219207
+Tuvalu,TUV,Upper middle income,0.42467765547540304
+Uganda,UGA,Low income,0.30915582822178655
+Ukraine,UKR,Upper middle income,0.4566236865198178
+United Arab Emirates,ARE,High income,0.6084454647735805
+United Kingdom,GBR,High income,0.6367335147023702
+United States,USA,High income,0.6855402934271492
+Uruguay,URY,High income,0.5341982409732762
+Uzbekistan,UZB,Lower middle income,0.4775647278956815
+Vanuatu,VUT,Lower middle income,0.4243495670383177
+"Venezuela, RB",VEN,Middle income,0.4126072134823541
+Viet Nam,VNM,Lower middle income,0.571754221267619
+Virgin Islands (U.S.),VIR,High income,0.545634431920258
+West Bank and Gaza,PSE,Lower middle income,0.4244184636731261
+"Yemen, Rep.",YEM,Low income,0.2711601322288636
+Zambia,ZMB,Lower middle income,0.3154906143788696
+Zimbabwe,ZWE,Lower middle income,0.2858082267544717
